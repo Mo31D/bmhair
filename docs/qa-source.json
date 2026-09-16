@@ -1,0 +1,23 @@
+{
+  "at": "2026-09-16T17:33:28.225Z",
+  "pages": 212,
+  "uniquePageTypes": 53,
+  "products": 24,
+  "internalLinks": 8940,
+  "imageElements": 916,
+  "optimizedImageBytes": 7169378,
+  "sitemapURLs": 200,
+  "checks": [
+    "SSR rendering",
+    "one H1",
+    "internal route targets",
+    "image existence and alt",
+    "metadata uniqueness",
+    "five hreflang entries",
+    "preview noindex",
+    "cart option validation and price",
+    "payments disabled",
+    "sitemap generator and preview robots"
+  ],
+  "failures": []
+}

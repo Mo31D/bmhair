@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {build} from '../node_modules/.pnpm/esbuild@0.28.0/node_modules/esbuild/lib/main.js';
+const dest=process.argv[2];if(!dest||!path.isAbsolute(dest))throw Error('An absolute output path is required');
+const result=await build({entryPoints:['scripts/offline-entry.tsx'],bundle:true,platform:'browser',format:'iife',minify:true,write:false,define:{'process.env.NODE_ENV':'"production"'},tsconfig:'tsconfig.json'});
+const assets={};for(const name of await fs.readdir('public/images'))if(name.endsWith('.webp'))assets['/images/'+name]='data:image/webp;base64,'+(await fs.readFile('public/images/'+name)).toString('base64');
+let fonts=await fs.readFile('public/fonts/fonts.css','utf8');for(const name of await fs.readdir('public/fonts'))if(name.endsWith('.woff'))fonts=fonts.replaceAll('/fonts/'+name,'data:font/woff;base64,'+(await fs.readFile('public/fonts/'+name)).toString('base64'));
+const cssDir='dist/client/_next/static/css';let css='';for(const name of await fs.readdir(cssDir))if(name.endsWith('.css'))css+=await fs.readFile(path.join(cssDir,name),'utf8');
+const favicon='data:image/svg+xml;base64,'+(await fs.readFile('public/favicon.svg')).toString('base64');
+const html='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>BM HAIR — Private preview</title><link rel="icon" href="'+favicon+'"><style>'+fonts+'\n'+css+'</style></head><body><div id="root"></div><noscript>This interactive preview requires JavaScript. No payment is taken.</noscript><script>window.__BM_OFFLINE__=true;window.__BM_ASSETS__='+JSON.stringify(assets).replaceAll('<','\\u003c')+';</script><script>'+result.outputFiles[0].text.replaceAll('</script','<\\/script')+'</script></body></html>';
+await fs.mkdir(path.dirname(dest),{recursive:true});await fs.writeFile(dest,html);console.log(JSON.stringify({path:dest,bytes:Buffer.byteLength(html),images:Object.keys(assets).length,externalAssets:0}));

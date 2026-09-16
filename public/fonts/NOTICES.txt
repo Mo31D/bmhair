@@ -1,0 +1,24 @@
+Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
+Manrope
+
+http://scripts.sil.org/OFL
+
+Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
+Manrope Medium
+
+http://scripts.sil.org/OFL
+
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond Medium
+
+https://openfontlicense.org
+
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond
+
+https://openfontlicense.org
+
+Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
+Manrope SemiBold
+
+http://scripts.sil.org/OFL
