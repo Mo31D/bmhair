@@ -7,6 +7,7 @@
   "workers_dev": true,
   "assets": {"directory": "./public"},
   "vars": {
+    "SITE_URL": "https://bmhair.ky6vfb55p9.workers.dev",
     "BM_INDEXABLE": "false",
     "BM_COMMERCE_ENABLED": "false"
   }
