@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-09-19",
+  "store": "knuap5-wt.myshopify.com",
+  "note": "Product-level map only. Exact variant GIDs were verified during the audit; runtime wiring remains disabled until inventory/SKU confirmation.",
+  "products": {
+    "couture-batiste-heat-protection": {
+      "shopifyProductId": "gid://shopify/Product/16117424783692",
+      "shopifyHandle": "couture-batiste-1-3-heat-protection",
+      "title": "Couture Batiste 1.3 · heat protection",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-blond-conditioner": {
+      "shopifyProductId": "gid://shopify/Product/16117423702348",
+      "shopifyHandle": "couture-luxury-blond-conditioner-1-l",
+      "title": "Couture Luxury Blond · conditioner, 1 L",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-blond-oil": {
+      "shopifyProductId": "gid://shopify/Product/16117417673036",
+      "shopifyHandle": "couture-luxury-blond-oil",
+      "title": "Couture Luxury Blond · oil",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-blond-shampoo": {
+      "shopifyProductId": "gid://shopify/Product/16117423472972",
+      "shopifyHandle": "couture-luxury-blond-shampoo-1-l",
+      "title": "Couture Luxury Blond · shampoo, 1 L",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-blond-spray": {
+      "shopifyProductId": "gid://shopify/Product/16117416264012",
+      "shopifyHandle": "couture-luxury-blond-two-phase-spray",
+      "title": "Couture Luxury Blond · two-phase spray",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-color-balm": {
+      "shopifyProductId": "gid://shopify/Product/16117419213132",
+      "shopifyHandle": "couture-luxury-color-conditioner",
+      "title": "Couture Luxury Color · conditioner",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-color-shampoo": {
+      "shopifyProductId": "gid://shopify/Product/16117418754380",
+      "shopifyHandle": "couture-luxury-color-shampoo",
+      "title": "Couture Luxury Color · shampoo",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-luxury-color-spray": {
+      "shopifyProductId": "gid://shopify/Product/16117418197324",
+      "shopifyHandle": "couture-luxury-color-two-phase-spray",
+      "title": "Couture Luxury Color · two-phase spray",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-silk-primer": {
+      "shopifyProductId": "gid://shopify/Product/16117424128332",
+      "shopifyHandle": "couture-silk-0-7-two-phase-primer",
+      "title": "Couture Silk 0.7 · two-phase primer",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "couture-velvet-spray": {
+      "shopifyProductId": "gid://shopify/Product/16117421015372",
+      "shopifyHandle": "couture-velvet-0-3-detangling-spray",
+      "title": "Couture Velvet 0.3 · detangling spray",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "wig-dark": {
+      "shopifyProductId": "gid://shopify/Product/16117381955916",
+      "shopifyHandle": "dark-natural-hair-wig",
+      "title": "Dark natural-hair wig",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "request-only"
+    },
+    "european-cut": {
+      "shopifyProductId": "gid://shopify/Product/16117387493708",
+      "shopifyHandle": "european-cut-hair",
+      "title": "European cut hair",
+      "variants": 20,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "wig-highlight": {
+      "shopifyProductId": "gid://shopify/Product/16117382283596",
+      "shopifyHandle": "highlighted-natural-hair-wig",
+      "title": "Highlighted natural-hair wig",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "mono": {
+      "shopifyProductId": "gid://shopify/Product/16117385036108",
+      "shopifyHandle": "mono-clip-in",
+      "title": "Mono clip-in",
+      "variants": 9,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "wig-blonde": {
+      "shopifyProductId": "gid://shopify/Product/16117381529932",
+      "shopifyHandle": "natural-blonde-wig",
+      "title": "Natural blonde wig",
+      "variants": 2,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "clip-ins": {
+      "shopifyProductId": "gid://shopify/Product/16117383856460",
+      "shopifyHandle": "natural-hair-clip-ins",
+      "title": "Natural hair clip-ins",
+      "variants": 15,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "otium-aqua-conditioner": {
+      "shopifyProductId": "gid://shopify/Product/16117422752076",
+      "shopifyHandle": "otium-aqua-conditioner-1-l",
+      "title": "Otium Aqua · conditioner, 1 L",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "otium-aqua-mask": {
+      "shopifyProductId": "gid://shopify/Product/16117423112524",
+      "shopifyHandle": "otium-aqua-mask-300-ml",
+      "title": "Otium Aqua · mask, 300 ml",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "otium-aqua-shampoo": {
+      "shopifyProductId": "gid://shopify/Product/16117422227788",
+      "shopifyHandle": "otium-aqua-shampoo-1-l",
+      "title": "Otium Aqua · shampoo, 1 L",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "otium-diamond-oil": {
+      "shopifyProductId": "gid://shopify/Product/16117416689996",
+      "shopifyHandle": "otium-diamond-precious-oil",
+      "title": "Otium Diamond · precious oil",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "source-sold-out"
+    },
+    "prima-blond-oil": {
+      "shopifyProductId": "gid://shopify/Product/16117417247052",
+      "shopifyHandle": "prima-blond-care-oil",
+      "title": "Prima Blond · care oil",
+      "variants": 1,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    },
+    "capsules": {
+      "shopifyProductId": "gid://shopify/Product/16117405450572",
+      "shopifyHandle": "slavic-capsule-extensions",
+      "title": "Slavic capsule extensions",
+      "variants": 176,
+      "skuMissingKnown": 176,
+      "note": "mapped"
+    },
+    "slavic-cut": {
+      "shopifyProductId": "gid://shopify/Product/16117393064268",
+      "shopifyHandle": "slavic-cut-hair",
+      "title": "Slavic cut hair",
+      "variants": 168,
+      "skuMissingKnown": 168,
+      "note": "mapped"
+    },
+    "ponytail": {
+      "shopifyProductId": "gid://shopify/Product/16117383102796",
+      "shopifyHandle": "the-natural-ponytail",
+      "title": "The natural ponytail",
+      "variants": 16,
+      "skuMissingKnown": 0,
+      "note": "mapped"
+    }
+  }
+}
