@@ -42,7 +42,9 @@ Noindex and robots rules are not privacy controls. The repository is public, and
 
 The checkout adapter is optional and inactive. It currently targets Shopify; migrating hosting does not create a custom commerce database or Stripe integration. Keep `BM_COMMERCE_ENABLED=false` until a production backend has authoritative inventory/prices, shipping/tax rules and successful payment validation. Reference photographs in enquiry forms remain local and are not uploaded; the visitor reviews an email draft before sending. There is no production customer login yet.
 
-Any future `SHOPIFY_STOREFRONT_PRIVATE_TOKEN` belongs in Cloudflare Secrets, never in GitHub, `wrangler.jsonc`, browser code or `.env.example`. Configure other integration values only when that backend is approved. The current preview requires no such secret.
+`SHOPIFY_STORE_DOMAIN=knuap5-wt.myshopify.com` and `SHOPIFY_API_VERSION=2026-07` are now committed as non-secret Worker variables. The verified 423-variant mapping is committed in `lib/bm/shopify-variant-map.ts`; it contains only Shopify GIDs and no credentials.
+
+`SHOPIFY_STOREFRONT_PRIVATE_TOKEN` must be added as a Cloudflare Secret, never to GitHub, `wrangler.jsonc`, browser code or `.env.example`. The checkout adapter now forwards the Cloudflare buyer IP to Shopify for server-side Storefront API traffic. Keep `BM_COMMERCE_ENABLED=false` until the token is installed and end-to-end checkout testing is complete.
 
 ## Validation completed before upload
 

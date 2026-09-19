@@ -3,12 +3,18 @@
   "name": "bmhair",
   "main": "vinext/server/fetch-handler",
   "compatibility_date": "2026-05-15",
-  "compatibility_flags": ["nodejs_compat"],
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "workers_dev": true,
-  "assets": {"directory": "./public"},
+  "assets": {
+    "directory": "./public"
+  },
   "vars": {
     "SITE_URL": "https://bmhair.ky6vfb55p9.workers.dev",
     "BM_INDEXABLE": "false",
-    "BM_COMMERCE_ENABLED": "false"
+    "BM_COMMERCE_ENABLED": "false",
+    "SHOPIFY_STORE_DOMAIN": "knuap5-wt.myshopify.com",
+    "SHOPIFY_API_VERSION": "2026-07"
   }
 }
