@@ -1,3 +1,4 @@
+import {shadePhotosFor} from './shade-photos';
 import {M, type LocalText, type Locale, type Word} from './i18n';
 export type Category='wigs'|'ponytails'|'clip-ins'|'hairpieces'|'natural-hair'|'hair-care';
 export type Variant={id:string;label:LocalText;price:number;length?:number;grams?:number};
@@ -56,10 +57,6 @@ hairpieces:M('Targeted volume, a natural blend. Discover natural-hair pieces for
 'hair-care':M('Professional care selected by our team. Explore ESTEL ranges for cleansing, conditioning and styling.','Cura professionale selezionata dal nostro team. Scopri le linee ESTEL per detersione, trattamento e styling.','Mūsu komandas izvēlēta profesionāla kopšana. ESTEL līdzekļi mazgāšanai, kondicionēšanai un veidošanai.','Профессиональный уход, отобранный нашей командой. Средства ESTEL для очищения, кондиционирования и укладки.')};
 export const findProduct=(slug:string)=>products.find(p=>p.slug===slug);
 export const minPrice=(p:Product)=>Math.min(...p.variants.map(v=>v.price));
-export const productImagesForShade=(p:Product,shade:string)=>{
- if(p.id==='ponytail')return shade==='1/613'?[p.images[1],p.images[0],p.images[2]]:p.images;
- if(p.id==='clip-ins'){const idx=p.shades.indexOf(shade);return idx>=0?[p.images[idx],...p.images.filter((_,i)=>i!==idx)]:p.images;}
- if(p.id==='mono'){const idx=p.shades.indexOf(shade);return idx>=0?[p.images[idx],...p.images.filter((_,i)=>i!==idx)]:p.images;}
- return p.images;
-};
+export const productImagesForShade=(p:Product,shade:string,texture?:string)=>
+ [...new Set([...shadePhotosFor(p.id,shade,texture).map(photo=>photo.src),...p.images])];
 export const company={name:'SIA Beauty Mafia ISL',address:'Mihoelsa 47, Daugavpils, Latvia',phone:'+371 28237807',tel:'+37128237807',email:'bmhair.lv@gmail.com',whatsapp:'https://wa.me/37128237807',instagram:'https://www.instagram.com/beauty_mafia_iwoman/',facebook:'https://www.facebook.com/MafiaDaugavpils/'};

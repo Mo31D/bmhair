@@ -1,11 +1,11 @@
 {
-  "at": "2026-09-21T05:17:50.685Z",
+  "at": "2026-09-21T05:27:07.206Z",
   "pages": 212,
   "uniquePageTypes": 53,
   "products": 24,
   "internalLinks": 8940,
   "imageElements": 916,
-  "optimizedImageBytes": 7169378,
+  "optimizedImageBytes": 9290764,
   "sitemapURLs": 200,
   "checks": [
     "SSR rendering",

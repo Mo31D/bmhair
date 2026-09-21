@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": 1,
+  "method": "Manual visual reading of original printed code banners, cross-checked against legacy dropdowns and current lib/bm/catalog.ts. All galleries inspected; no order-based or color-based assignments.",
+  "sourceHtmlFinding": "All six source modal HTML files contain no script tags or embedded JSON. Shade radio values only index dropdown choices. Gallery anchors have data-gallery, href and empty title/alt; no shade/code linkage. Gallery order is not evidence.",
+  "mapping": {
+    "capsules": {
+      "10.0": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 3,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/c92/1600_1200_1/c92e77df81cc925c953e1c8c6dbb3ee0.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "10.0",
+          "printedLabel": "БЛОНД ПРЯМОЙ НАТУРАЛЬНЫЙ 10.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "47b4f7fef039b18d7188426d504884f57340b7310629a3f1fc43ed6b4f23c41c",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-03.webp",
+          "publishedSha256": "47b4f7fef039b18d7188426d504884f57340b7310629a3f1fc43ed6b4f23c41c"
+        },
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 4,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/834/1600_1200_1/834951b336bf5616b80b7c4d8029b265.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "10.0",
+          "printedLabel": "БЛОНД ВОЛНИСТЫЙ НАТУРАЛЬНЫЙ 10.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "7ed5c27d4dbd2998b24a64e6129fecb5ae2e9edf02b59c6c88097a193d55a75e",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy",
+          "primary": false,
+          "webPath": "/images/cat-1810-04.webp",
+          "publishedSha256": "7ed5c27d4dbd2998b24a64e6129fecb5ae2e9edf02b59c6c88097a193d55a75e"
+        },
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 5,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/17a/1600_1200_1/17ae5aee2946e697761ca851b7d70f1b.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "10.0",
+          "printedLabel": "БЛОНД ВОЛНИСТЫЙ И КУЧЕРЯВЫЙ 10.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "533bacd992a949b8eab284ada9a8018f718d7dd91f19f05a801e8bec00b65f74",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy-curly",
+          "primary": false,
+          "webPath": "/images/cat-1810-05.webp",
+          "publishedSha256": "f511926b3ee255fbee1a858872524709274f0809aafa08eb42db09f5cb030894"
+        }
+      ],
+      "9.0": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 7,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/ee8/1600_1200_1/ee8ec92803aca5b3cb320df9b491756d.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "9.0",
+          "printedLabel": "БЛОНД ПРЯМОЙ НАТУРАЛЬНЫЙ 9.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "4ba8825888906e0446eead25ca680faa9f5185efd6934a1949cc7224eaa6cd0d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-07.webp",
+          "publishedSha256": "6740bc3944d55055464b5c518f4301ab9445ce8aa23a858bfbae5b2a18aee23f"
+        },
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 6,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/e2c/1600_1200_1/e2c86a4313d95e05afd9a1c1dd047c40.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "9.0",
+          "printedLabel": "БЛОНД ВОЛНИСТЫЙ НАТУРАЛЬНЫЙ 9.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "16ba2677a704ca4387b8cadf80578042ba6a03cb8ed21e1ef8e17102fb1e8969",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy",
+          "primary": false,
+          "webPath": "/images/cat-1810-06.webp",
+          "publishedSha256": "0f266588099c8038d48951722f27f9039402a7fcbe6c09164ff1920f8aed039d"
+        }
+      ],
+      "7.1/10.1": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 9,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/853/1600_1200_1/853c23e8ccceb4acd106bd89121617f3.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "7.1/10.1",
+          "printedLabel": "ОМБРЕ ПРЯМОЙ 7.1 / 10.1",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "02a150909814b0f7beadc90b73466b2b74a03e0e7bb6b7df9c7731c39a95fda1",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-09.webp",
+          "publishedSha256": "106020f1c86727c7c5a0855660ffb1b262f91c2a4e27c19f1cd40250703b364a"
+        }
+      ],
+      "6.0/10.0": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 10,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/05b/1600_1200_1/05b8c23d67ecf692227e7c4ec81c9747.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "6.0/10.0",
+          "printedLabel": "ОМБРЕ ПРЯМОЙ 6.0 / 10.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "973c7671bc1f5dac63c61247357e9538dbd2231964b2f203a560f285170ddf26",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-10.webp",
+          "publishedSha256": "e822472895f5799f28db838e92c6f320296ae0947608f1a1208abb55dccc4d74"
+        }
+      ],
+      "8.74": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 11,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/2a6/1600_1200_1/2a698f3adbfb011d92bbb81763c4c739.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "8.74",
+          "printedLabel": "СВЕТЛО-РУСЫЙ КОРИЧНЕВО-МЕДНЫЙ 8.74",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "aa294e1e91e6973235ef85da60b01c12751370ac8d83d681098aad2eb908242b",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-11.webp",
+          "publishedSha256": "b3d356c0c0a7e4a9778919921b61ecfabcb70197ead800a7cc213b3b140b6631"
+        }
+      ],
+      "8.71": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 12,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/b85/1600_1200_1/b854a62ceb030df02e8659a101f3777f.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "8.71",
+          "printedLabel": "СВЕТЛО-РУСЫЙ КОРИЧНЕВЫЙ 8.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "56ae2fb0b86a51d42726799ab2b85106d155aee21f66603439f3a221a360502d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-12.webp",
+          "publishedSha256": "0aafe1647b65647632e0250941c762e7bcf99a6ec3b33bbfae1799423772151f"
+        }
+      ],
+      "7.71": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 14,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/9b8/1600_1200_1/9b84c6ef90556122a81e8fc96f77d4cf.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "7.71",
+          "printedLabel": "НАТУРАЛЬНЫЙ ВОЛНИСТЫЙ И КУЧЕРЯВЫЙ 7.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "a624e53adb5006ce66dd00d6021b156343d4aa84008338c9d5063e2b40bc261d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy-curly",
+          "primary": true,
+          "webPath": "/images/cat-1810-14.webp",
+          "publishedSha256": "ae4be3e6c7364371769cb99e1871962a1506e8a95be23253b61aa1fc19927e96"
+        }
+      ],
+      "7.1": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 15,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/5ba/1600_1200_1/5bafefd210de8d2868fcda8e96522c93.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "7.1",
+          "printedLabel": "НАТУРАЛЬНЫЙ ПРЯМОЙ 7.1",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "016c236a90a4dca0eacd5f49149b701367aa36fc523260c52df3ed100a2e6217",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-15.webp",
+          "publishedSha256": "a57429c449211abd63e4d4c2f0ec00fc9364b23258b9158d3bacf07671d71745"
+        }
+      ],
+      "6.74": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 16,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/640/1600_1200_1/640a00bd90419242b972815432db8e17.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "6.74",
+          "printedLabel": "ТЕМНО-РУСЫЙ КОРИЧНЕВО-МЕДНЫЙ 6.74",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "cdd52526354f606b6d192115d11160393eb689a18a7099f150366dc23db68466",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-16.webp",
+          "publishedSha256": "662c00eaabc4c59adcfabbd6043f6ea8df2fe9897c3dfb7dd8a93a249d950807"
+        }
+      ],
+      "6.71": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 18,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/9cc/1600_1200_1/9cc550c9ac75f57ee966d45fd0d38702.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "6.71",
+          "printedLabel": "ТЕМНО-РУСЫЙ ПЕПЕЛЬНО-КОРИЧНЕВЫЙ 6.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "c17ffd2e89260c177af44881088744d38006045dfc700d2bc0fd35048d428a7e",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-18.webp",
+          "publishedSha256": "5fd3d0a26ce8c21d218b97ec6dcd5d74845532b116bf81d9872a9465d7d08c2e"
+        }
+      ],
+      "6.0": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 19,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/cc6/1600_1200_1/cc6296f9fc58be6f882fd5cbdcc3108c.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "6.0",
+          "printedLabel": "НАТУРАЛЬНЫЙ ПРЯМОЙ 6.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "7f5e158e34603e13141e6fbe2a0063e9a0d8ae90af8bcb020410c3fa44e33aeb",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-19.webp",
+          "publishedSha256": "48f440a990888299c61d63d323d9ef22a95fe910a2196ef25907921ceaef4904"
+        }
+      ],
+      "5.7": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 20,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/dd3/1600_1200_1/dd359a0d30f42e3ab4c8b84276d04671.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "5.7",
+          "printedLabel": "ШОКОЛАД 5.7",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "5990d033a94555935f728ea5b7adacc3eae2d68bff6cd490641a678ab2386095",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-20.webp",
+          "publishedSha256": "2b1de4df219538276b1c488c343663e76ceaeea4515ef8229f7e077569b7678d"
+        }
+      ],
+      "1.0": [
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 21,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/8ce/1600_1200_1/8ce975b8ef796d7f79756ca71921496d.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "1.0",
+          "printedLabel": "ЧЕРНЫЙ ПРЯМОЙ 1.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "397a398d1a414e9e879dc2925ce7fe9ab00788abfb59f955a52a9f32390b3605",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-21.webp",
+          "publishedSha256": "aad37c6f3ee4dd53eb0081b5b1c1c1ec8ade07ce5b4287e0e010469b5e6d835e"
+        },
+        {
+          "productId": "capsules",
+          "sourceId": 1810,
+          "gallerySequence": 22,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/0f7/1600_1200_1/0f74b5ac7aea311e2d3359c0d183787c.png",
+          "sourceHtml": "docs/source/ru-catalog-1810.txt",
+          "printedCode": "1.0",
+          "printedLabel": "ЧЕРНЫЙ ВОЛНИСТЫЙ И КУЧЕРЯВЫЙ 1.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "e6d92314d460e6a3769e22afabde9da52d6f086ef1079fe304f2e7c964890e39",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy-curly",
+          "primary": false,
+          "webPath": "/images/cat-1810-22.webp",
+          "publishedSha256": "ac16e58f015c5da730797a8a5dcf1052fac89f01073fba74b7821fb57bf4ea41"
+        }
+      ]
+    },
+    "slavic-cut": {
+      "9.0": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 7,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/557/1600_1200_1/55703c2bb1acac6a1e16906f3e358af1.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "9.0",
+          "printedLabel": "БЛОНД ПРЯМОЙ НАТУРАЛЬНЫЙ 9.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "4ba8825888906e0446eead25ca680faa9f5185efd6934a1949cc7224eaa6cd0d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-07.webp",
+          "publishedSha256": "6740bc3944d55055464b5c518f4301ab9445ce8aa23a858bfbae5b2a18aee23f"
+        },
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 6,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/0a8/1600_1200_1/0a8a3dc31d2bf9580bf0e15fbdb3134c.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "9.0",
+          "printedLabel": "БЛОНД ВОЛНИСТЫЙ НАТУРАЛЬНЫЙ 9.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "16ba2677a704ca4387b8cadf80578042ba6a03cb8ed21e1ef8e17102fb1e8969",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy",
+          "primary": false,
+          "webPath": "/images/cat-1810-06.webp",
+          "publishedSha256": "0f266588099c8038d48951722f27f9039402a7fcbe6c09164ff1920f8aed039d"
+        }
+      ],
+      "7.1/10.1": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 9,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/19f/1600_1200_1/19f329d09e16ff9f01cc244e8598b31e.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "7.1/10.1",
+          "printedLabel": "ОМБРЕ ПРЯМОЙ 7.1 / 10.1",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "02a150909814b0f7beadc90b73466b2b74a03e0e7bb6b7df9c7731c39a95fda1",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-09.webp",
+          "publishedSha256": "106020f1c86727c7c5a0855660ffb1b262f91c2a4e27c19f1cd40250703b364a"
+        }
+      ],
+      "6.0/10.0": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 10,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/0e7/1600_1200_1/0e7bcab0a099876a455686f5646e05ba.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "6.0/10.0",
+          "printedLabel": "ОМБРЕ ПРЯМОЙ 6.0 / 10.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "973c7671bc1f5dac63c61247357e9538dbd2231964b2f203a560f285170ddf26",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-10.webp",
+          "publishedSha256": "e822472895f5799f28db838e92c6f320296ae0947608f1a1208abb55dccc4d74"
+        }
+      ],
+      "8.74": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 11,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/735/1600_1200_1/73572b0c7f64c15acb63c321fda6dac6.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "8.74",
+          "printedLabel": "СВЕТЛО-РУСЫЙ КОРИЧНЕВО-МЕДНЫЙ 8.74",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "aa294e1e91e6973235ef85da60b01c12751370ac8d83d681098aad2eb908242b",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-11.webp",
+          "publishedSha256": "b3d356c0c0a7e4a9778919921b61ecfabcb70197ead800a7cc213b3b140b6631"
+        }
+      ],
+      "8.71": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 12,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/b2e/1600_1200_1/b2eac0b4ce591cc7d7fa5338ca1c932d.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "8.71",
+          "printedLabel": "СВЕТЛО-РУСЫЙ КОРИЧНЕВЫЙ 8.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "56ae2fb0b86a51d42726799ab2b85106d155aee21f66603439f3a221a360502d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-12.webp",
+          "publishedSha256": "0aafe1647b65647632e0250941c762e7bcf99a6ec3b33bbfae1799423772151f"
+        }
+      ],
+      "7.71": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 14,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/264/1600_1200_1/2643355ca3be13424a51f752a0ac41ce.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "7.71",
+          "printedLabel": "НАТУРАЛЬНЫЙ ВОЛНИСТЫЙ И КУЧЕРЯВЫЙ 7.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "a624e53adb5006ce66dd00d6021b156343d4aa84008338c9d5063e2b40bc261d",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy-curly",
+          "primary": true,
+          "webPath": "/images/cat-1810-14.webp",
+          "publishedSha256": "ae4be3e6c7364371769cb99e1871962a1506e8a95be23253b61aa1fc19927e96"
+        }
+      ],
+      "7.1": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 15,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/e4d/1600_1200_1/e4dc9e5ea77e874a8918eea0e5744e8f.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "7.1",
+          "printedLabel": "НАТУРАЛЬНЫЙ ПРЯМОЙ 7.1",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "016c236a90a4dca0eacd5f49149b701367aa36fc523260c52df3ed100a2e6217",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-15.webp",
+          "publishedSha256": "a57429c449211abd63e4d4c2f0ec00fc9364b23258b9158d3bacf07671d71745"
+        }
+      ],
+      "6.74": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 16,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/39a/1600_1200_1/39aeac24858f803c184960062fac7093.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "6.74",
+          "printedLabel": "ТЕМНО-РУСЫЙ КОРИЧНЕВО-МЕДНЫЙ 6.74",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "cdd52526354f606b6d192115d11160393eb689a18a7099f150366dc23db68466",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-16.webp",
+          "publishedSha256": "662c00eaabc4c59adcfabbd6043f6ea8df2fe9897c3dfb7dd8a93a249d950807"
+        }
+      ],
+      "6.71": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 18,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/6b9/1600_1200_1/6b9985174a31e6a2018b9d058a58b097.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "6.71",
+          "printedLabel": "ТЕМНО-РУСЫЙ ПЕПЕЛЬНО-КОРИЧНЕВЫЙ 6.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "c17ffd2e89260c177af44881088744d38006045dfc700d2bc0fd35048d428a7e",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-18.webp",
+          "publishedSha256": "5fd3d0a26ce8c21d218b97ec6dcd5d74845532b116bf81d9872a9465d7d08c2e"
+        }
+      ],
+      "6.0": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 19,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/f83/1600_1200_1/f839da20217128fd68cc7384de7961f7.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "6.0",
+          "printedLabel": "НАТУРАЛЬНЫЙ ПРЯМОЙ 6.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "7f5e158e34603e13141e6fbe2a0063e9a0d8ae90af8bcb020410c3fa44e33aeb",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-19.webp",
+          "publishedSha256": "48f440a990888299c61d63d323d9ef22a95fe910a2196ef25907921ceaef4904"
+        }
+      ],
+      "5.7": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 20,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/bc9/1600_1200_1/bc9054107112cca76b329ef560929026.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "5.7",
+          "printedLabel": "ШОКОЛАД 5.7",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "5990d033a94555935f728ea5b7adacc3eae2d68bff6cd490641a678ab2386095",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1810-20.webp",
+          "publishedSha256": "2b1de4df219538276b1c488c343663e76ceaeea4515ef8229f7e077569b7678d"
+        }
+      ],
+      "1.0": [
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 21,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/395/1600_1200_1/3951ab0e92877537c4ccc43fd9011548.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "1.0",
+          "printedLabel": "ЧЕРНЫЙ ПРЯМОЙ 1.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "397a398d1a414e9e879dc2925ce7fe9ab00788abfb59f955a52a9f32390b3605",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "straight",
+          "primary": true,
+          "webPath": "/images/cat-1810-21.webp",
+          "publishedSha256": "aad37c6f3ee4dd53eb0081b5b1c1c1ec8ade07ce5b4287e0e010469b5e6d835e"
+        },
+        {
+          "productId": "slavic-cut",
+          "sourceId": 1822,
+          "gallerySequence": 22,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/87e/1600_1200_1/87ecd61882cf1a567fb4c0be62cf3bb5.png",
+          "sourceHtml": "docs/source/ru-catalog-1822.txt",
+          "printedCode": "1.0",
+          "printedLabel": "ЧЕРНЫЙ ВОЛНИСТЫЙ И КУЧЕРЯВЫЙ 1.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "e6d92314d460e6a3769e22afabde9da52d6f086ef1079fe304f2e7c964890e39",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "textureFromPrintedLabel": "wavy-curly",
+          "primary": false,
+          "webPath": "/images/cat-1810-22.webp",
+          "publishedSha256": "ac16e58f015c5da730797a8a5dcf1052fac89f01073fba74b7821fb57bf4ea41"
+        }
+      ]
+    },
+    "european-cut": {
+      "12": [
+        {
+          "productId": "european-cut",
+          "sourceId": 1846,
+          "gallerySequence": 5,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/e2e/1600_1200_1/e2e54b0847cdd0253da27ddd0b2afbe2.png",
+          "sourceHtml": "docs/source/ru-catalog-1846.txt",
+          "printedCode": "12",
+          "printedLabel": "ПЕПЕЛЬНО-РУСЫЙ 12",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "6d930dc732d640438a6dcc8e3080a558b5fa2485333481b8daced1c5aa7674dd",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1846-05.webp",
+          "publishedSha256": "6a15a254ac1636f69da06d6ea262571166d646bb7557e30900b167ec0f944d0e"
+        }
+      ],
+      "10": [
+        {
+          "productId": "european-cut",
+          "sourceId": 1846,
+          "gallerySequence": 6,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/b90/1600_1200_1/b90ed9cedfcba8b472fa24475e567d87.png",
+          "sourceHtml": "docs/source/ru-catalog-1846.txt",
+          "printedCode": "10",
+          "printedLabel": "СВЕТЛО-РУСЫЙ 10",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "545bf1e4cdce5aed75e98b51924eab47c6e761f4c1572c6cb2dfe5599e10aba6",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1846-06.webp",
+          "publishedSha256": "e5dd240b20bc5b05f8d464ca42c7b2a64129da59935b8292871140fd2cf13445"
+        }
+      ],
+      "6": [
+        {
+          "productId": "european-cut",
+          "sourceId": 1846,
+          "gallerySequence": 8,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/19c/1600_1200_1/19c678ab3652b8ac6195a49f5535f593.png",
+          "sourceHtml": "docs/source/ru-catalog-1846.txt",
+          "printedCode": "6",
+          "printedLabel": "ШОКОЛАД 6",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "c457485f8a752e21daa7fec4ecbd8d2fc24b6acf720afd655846618ac0b09656",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1846-08.webp",
+          "publishedSha256": "5a1dc534adbfe2791276f0cd5ec08b52096f9079f3bb5cb406bc3493f25595de"
+        }
+      ]
+    },
+    "ponytail": {
+      "613": [
+        {
+          "productId": "ponytail",
+          "sourceId": 1820,
+          "gallerySequence": 2,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/2c1/1600_1200_1/2c108d57ea1a2fc539e1d7c88c3994ca.png",
+          "sourceHtml": "docs/source/ru-catalog-1820.txt",
+          "printedCode": "613",
+          "printedLabel": "БЛОНД 613",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "d894e3991b67fb3add534162e9c0af41e61c8b2ec565937ca1597d4164a1b78f",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1820-02.webp",
+          "publishedSha256": "d894e3991b67fb3add534162e9c0af41e61c8b2ec565937ca1597d4164a1b78f"
+        }
+      ]
+    },
+    "clip-ins": {
+      "6.74": [
+        {
+          "productId": "clip-ins",
+          "sourceId": 1821,
+          "gallerySequence": 3,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/63d/1600_1200_1/63da8737fc77771aca52ff08e80e4d5a.png",
+          "sourceHtml": "docs/source/ru-catalog-1821.txt",
+          "printedCode": "6.74",
+          "printedLabel": "НАТУРАЛЬНЫЙ ТЕПЛЫЙ ШОКОЛАД 6.74",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "84f9137c7c7002c91d4c86c45332b8806e37ce27f0421b8f95791319316fea55",
+          "dimensions": [
+            741,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1821-03.webp",
+          "publishedSha256": "84f9137c7c7002c91d4c86c45332b8806e37ce27f0421b8f95791319316fea55"
+        }
+      ],
+      "6.7/9.7": [
+        {
+          "productId": "clip-ins",
+          "sourceId": 1821,
+          "gallerySequence": 4,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/099/1600_1200_1/099ae3c34f8fc030a7d71d036329a4d4.png",
+          "sourceHtml": "docs/source/ru-catalog-1821.txt",
+          "printedCode": "6.7/9.7",
+          "printedLabel": "ОМБРЭ 6.7/9.7",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "5decfa72d373bb53d31215bffa869a2d9fa0893a55e65fe500d2f0b694b718b2",
+          "dimensions": [
+            875,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1821-04.webp",
+          "publishedSha256": "5decfa72d373bb53d31215bffa869a2d9fa0893a55e65fe500d2f0b694b718b2"
+        }
+      ],
+      "10.16": [
+        {
+          "productId": "clip-ins",
+          "sourceId": 1821,
+          "gallerySequence": 5,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/882/1600_1200_1/8829005a6a692c32a32502876253e06d.png",
+          "sourceHtml": "docs/source/ru-catalog-1821.txt",
+          "printedCode": "10.16",
+          "printedLabel": "ПЛАТИНОВЫЙ БЛОНД 10.16",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "7af796ec1cc094f1f2aa32dcf4a88f8954d8613eae6f2a1a25c9c9fbb4856494",
+          "dimensions": [
+            766,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1821-05.webp",
+          "publishedSha256": "7af796ec1cc094f1f2aa32dcf4a88f8954d8613eae6f2a1a25c9c9fbb4856494"
+        }
+      ],
+      "1.0": [
+        {
+          "productId": "clip-ins",
+          "sourceId": 1821,
+          "gallerySequence": 6,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/1f9/1600_1200_1/1f955af5e9324bd2a1dd373465ed0f2f.png",
+          "sourceHtml": "docs/source/ru-catalog-1821.txt",
+          "printedCode": "1.0",
+          "printedLabel": "ЧЕРНЫЕ 1.0",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "bdbd9db4c9279412c9e3b5dfc49f7f1519f2c41fee94be3819ac2b468d902629",
+          "dimensions": [
+            785,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1821-06.webp",
+          "publishedSha256": "bdbd9db4c9279412c9e3b5dfc49f7f1519f2c41fee94be3819ac2b468d902629"
+        }
+      ]
+    },
+    "mono": {
+      "6.0/10.7": [
+        {
+          "productId": "mono",
+          "sourceId": 1960,
+          "gallerySequence": 2,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/8b4/1600_1200_1/8b40aee68caa028e7784cd0f6a936d33.png",
+          "sourceHtml": "docs/source/ru-catalog-1960.txt",
+          "printedCode": "6.0/10.7",
+          "printedLabel": "ОМБРЭ 6.0 / 10.7",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "c7711db9f63b9ecd2c2892bffaa92019c9ea6385a69c2bcbe847ceab65bd9fe3",
+          "dimensions": [
+            733,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1960-02.webp",
+          "publishedSha256": "c7711db9f63b9ecd2c2892bffaa92019c9ea6385a69c2bcbe847ceab65bd9fe3"
+        }
+      ],
+      "5.71": [
+        {
+          "productId": "mono",
+          "sourceId": 1960,
+          "gallerySequence": 3,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/4ad/1600_1200_1/4adf7b6a050e05b62f478acfdeaacee0.png",
+          "sourceHtml": "docs/source/ru-catalog-1960.txt",
+          "printedCode": "5.71",
+          "printedLabel": "ШОКОЛАД 5.71",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "73428e0d064d873e68fc2d0a270b5f5db7c47c0e1e7cb610f0cc0f151671401d",
+          "dimensions": [
+            802,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1960-03.webp",
+          "publishedSha256": "73428e0d064d873e68fc2d0a270b5f5db7c47c0e1e7cb610f0cc0f151671401d"
+        }
+      ],
+      "6.74/9.7": [
+        {
+          "productId": "mono",
+          "sourceId": 1960,
+          "gallerySequence": 4,
+          "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/d85/1600_1200_1/d85eb83da57854bb16b74da1651b5e71.png",
+          "sourceHtml": "docs/source/ru-catalog-1960.txt",
+          "printedCode": "6.74/9.7",
+          "printedLabel": "ОМБРЭ 6.74 / 9.7",
+          "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+          "sha256": "8548e96916c151d42979f4ac130f272598e52f5036f7bc76c382326860562f94",
+          "dimensions": [
+            710,
+            1200
+          ],
+          "primary": true,
+          "webPath": "/images/cat-1960-04.webp",
+          "publishedSha256": "8548e96916c151d42979f4ac130f272598e52f5036f7bc76c382326860562f94"
+        }
+      ]
+    }
+  },
+  "missingCurrentShades": {
+    "capsules": [
+      "10.7",
+      "9.3",
+      "8.3",
+      "8.0",
+      "7.0",
+      "6.7",
+      "5.71",
+      "3.0",
+      "1.1"
+    ],
+    "slavic-cut": [
+      "10.7",
+      "9.3",
+      "8.3",
+      "8.0",
+      "7.0",
+      "6.7",
+      "5.71",
+      "3.0",
+      "1.1"
+    ],
+    "european-cut": [
+      "1",
+      "1B"
+    ],
+    "ponytail": [
+      "1/613"
+    ],
+    "clip-ins": [
+      "613"
+    ],
+    "mono": []
+  },
+  "uncertainOrNotSelectablePhotos": [
+    {
+      "productId": "capsules",
+      "sourceId": 1810,
+      "gallerySequence": 2,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/5e0/1600_1200_1/5e0725f1241dca5b158fff6b5baaf302.png",
+      "sourceHtml": "docs/source/ru-catalog-1810.txt",
+      "reason": "Printed code 100 does not occur in current selector; cannot map it to 10.7 or another code.",
+      "printedCode": "100"
+    },
+    {
+      "productId": "capsules",
+      "sourceId": 1810,
+      "gallerySequence": 13,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/1b4/1600_1200_1/1b400b9c6d94f960e194baf2768c3190.png",
+      "sourceHtml": "docs/source/ru-catalog-1810.txt",
+      "reason": "Printed 8.1 is absent from current selector; do not use for 8.0.",
+      "printedCode": "8.1"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 2,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/a3a/1600_1200_1/a3afa6069a757b8a3d3133467c908ebd.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "reason": "Printed code 100 does not occur in current selector; cannot map it to 10.7 or another code.",
+      "printedCode": "100"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 13,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/83f/1600_1200_1/83f9c316ce28ccfdf5cd492f5314e776.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "reason": "Printed 8.1 is absent from current selector; do not use for 8.0.",
+      "printedCode": "8.1"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 3,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/b0c/1600_1200_1/b0c9e82d7222831603a675c862c272ac.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "reason": "Printed 10.0 is not offered in Slavic-cut selector, although this authentic gallery photo exists.",
+      "printedCode": "10.0"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 4,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/6b2/1600_1200_1/6b23169885f24493401088140bb6cccf.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "reason": "Printed 10.0 is not offered in Slavic-cut selector, although this authentic gallery photo exists.",
+      "printedCode": "10.0"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 5,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/7ec/1600_1200_1/7ecd205e6f754d1ae77a6f2200941a7b.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "reason": "Printed 10.0 is not offered in Slavic-cut selector, although this authentic gallery photo exists.",
+      "printedCode": "10.0"
+    },
+    {
+      "productId": "european-cut",
+      "sourceId": 1846,
+      "gallerySequence": 2,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/1ec/1600_1200_1/1eca7848d8bc20cd1d09b8d92550412e.png",
+      "sourceHtml": "docs/source/ru-catalog-1846.txt",
+      "reason": "Printed code is not in the current European-cut selector.",
+      "printedCode": "613"
+    },
+    {
+      "productId": "european-cut",
+      "sourceId": 1846,
+      "gallerySequence": 3,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/c21/1600_1200_1/c213b62c16fa842598d22ae5a9304e99.png",
+      "sourceHtml": "docs/source/ru-catalog-1846.txt",
+      "reason": "Printed code is not in the current European-cut selector.",
+      "printedCode": "18"
+    },
+    {
+      "productId": "european-cut",
+      "sourceId": 1846,
+      "gallerySequence": 4,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/454/1600_1200_1/4540671a7228fcb9e480b63043857a12.png",
+      "sourceHtml": "docs/source/ru-catalog-1846.txt",
+      "reason": "Printed code is not in the current European-cut selector.",
+      "printedCode": "14"
+    },
+    {
+      "productId": "european-cut",
+      "sourceId": 1846,
+      "gallerySequence": 7,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/e6a/1600_1200_1/e6a375f18143364843414104d3a87075.png",
+      "sourceHtml": "docs/source/ru-catalog-1846.txt",
+      "reason": "Printed code is not in the current European-cut selector.",
+      "printedCode": "8"
+    },
+    {
+      "productId": "european-cut",
+      "sourceId": 1846,
+      "gallerySequence": 9,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/433/1600_1200_1/433dbcd4ab6ae1cfe164efc4b94fca1d.jpg",
+      "sourceHtml": "docs/source/ru-catalog-1846.txt",
+      "reason": "Printed code is 1.1; no evidence equates this to current 1 or 1B selector codes.",
+      "printedCode": "1.1"
+    },
+    {
+      "productId": "ponytail",
+      "sourceId": 1820,
+      "gallerySequence": 3,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/ea3/1600_1200_1/ea3d36c5f450531196a56249e1c62990.png",
+      "sourceHtml": "docs/source/ru-catalog-1820.txt",
+      "reason": "Printed ombre code is 1.613; the original dropdown says Омбре: с черного на натуральный блонд / 1/613. This looks like separator formatting for the same explicit two-part code, but excluded from strict literal-code mapping for parent review.",
+      "printedCode": "1.613",
+      "candidateShade": "1/613"
+    },
+    {
+      "productId": "clip-ins",
+      "sourceId": 1821,
+      "gallerySequence": 2,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/9f0/1600_1200_1/9f09b58eab4bec2b6a43cec7d23901cd.png",
+      "sourceHtml": "docs/source/ru-catalog-1821.txt",
+      "reason": "Photo says НАТУРАЛЬНЫЙ БЛОНД without a code; dropdown says Натуральный блонд / 613. Name-only correspondence, excluded under strict explicit-code requirement.",
+      "candidateShade": "613"
+    },
+    {
+      "productId": "ponytail",
+      "sourceId": 1820,
+      "gallerySequence": 4,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/d61/1600_1200_1/d61499d22e797f8ed5c0d1f31ded2a70.png",
+      "sourceHtml": "docs/source/ru-catalog-1820.txt",
+      "reason": "Printed code is not in current ponytail selector.",
+      "printedCode": "10"
+    },
+    {
+      "productId": "ponytail",
+      "sourceId": 1820,
+      "gallerySequence": 5,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/9c2/1600_1200_1/9c2b8867248c549840b8d4db1a3b3080.png",
+      "sourceHtml": "docs/source/ru-catalog-1820.txt",
+      "reason": "Printed code is not in current ponytail selector.",
+      "printedCode": "18"
+    },
+    {
+      "productId": "ponytail",
+      "sourceId": 1820,
+      "gallerySequence": 6,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/a82/1600_1200_1/a82a17d2946ade42cd4c4f1b5d6cdc67.png",
+      "sourceHtml": "docs/source/ru-catalog-1820.txt",
+      "reason": "Printed code is not in current ponytail selector.",
+      "printedCode": "1.0"
+    }
+  ],
+  "verifiedRedundantPhotos": [
+    {
+      "productId": "capsules",
+      "sourceId": 1810,
+      "gallerySequence": 8,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/1aa/1600_1200_1/1aa7a77d1da6dc3e2c28069088878f88.png",
+      "sourceHtml": "docs/source/ru-catalog-1810.txt",
+      "printedCode": "9.0",
+      "printedLabel": "БЛОНД ПРЯМОЙ НАТУРАЛЬНЫЙ 9.0",
+      "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+      "sha256": "53c6b943b9cc8375902cf7570b2946e8844db56f53e95720bcd3aec766bf7627",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "textureFromPrintedLabel": "straight"
+    },
+    {
+      "productId": "capsules",
+      "sourceId": 1810,
+      "gallerySequence": 17,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/9aa/1600_1200_1/9aae21a586231514b1549faea786770e.png",
+      "sourceHtml": "docs/source/ru-catalog-1810.txt",
+      "printedCode": "6.74",
+      "printedLabel": "КОРИЧНЕВО-МЕДНЫЙ 6.74",
+      "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+      "sha256": "375bd4250fdabca8d646c5d4d03f8f34f143142146f7855dfe4908d34654d938",
+      "dimensions": [
+        675,
+        1200
+      ]
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 8,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/532/1600_1200_1/5329a156638228177d0b467b82ab28d2.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "printedCode": "9.0",
+      "printedLabel": "БЛОНД ПРЯМОЙ НАТУРАЛЬНЫЙ 9.0",
+      "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+      "sha256": "53c6b943b9cc8375902cf7570b2946e8844db56f53e95720bcd3aec766bf7627",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "textureFromPrintedLabel": "straight"
+    },
+    {
+      "productId": "slavic-cut",
+      "sourceId": 1822,
+      "gallerySequence": 17,
+      "sourceUrl": "http://bmhair.shop/upload/resize_cache/iblock/835/1600_1200_1/83518dcaf9a14231c5eaf5cef1881c58.png",
+      "sourceHtml": "docs/source/ru-catalog-1822.txt",
+      "printedCode": "6.74",
+      "printedLabel": "КОРИЧНЕВО-МЕДНЫЙ 6.74",
+      "evidence": "Code visibly printed in original photo header; gallery URL appears in cited legacy HTML. No inference from gallery ordering or hair appearance.",
+      "sha256": "375bd4250fdabca8d646c5d4d03f8f34f143142146f7855dfe4908d34654d938",
+      "dimensions": [
+        675,
+        1200
+      ]
+    }
+  ],
+  "capsuleQuantityGuidance": {
+    "sourceHtml": "docs/source/ru-catalog-1810.txt",
+    "basis": "Approximate amount for average density (Примерное необходимое количество капсул при наращивании (средняя густота)).",
+    "ranges": [
+      {
+        "lengthCm": "50",
+        "capsulesMin": 140,
+        "capsulesMax": 160
+      },
+      {
+        "lengthCm": "60",
+        "capsulesMin": 160,
+        "capsulesMax": 200
+      },
+      {
+        "lengthCm": "70 / 80",
+        "capsulesMin": 200,
+        "capsulesMax": 260
+      }
+    ],
+    "caveat": "Quantity depends on the density, length and texture of the customer’s own hair. Wavy/curly texture requires fewer capsules. No 40 cm quantity was supplied."
+  },
+  "integrationNotes": [
+    "Only normal resize/compression is needed; downloaded PNG/JPEG bytes have not been visually altered. Existing WEBPs were copied without changes.",
+    "Use first (primary=true) photo of each mapping list; alternates are retained only where the printed texture description differs.",
+    "Do not claim unpictured selector shades have an exact matching photo. Use an explicit gallery/reference fallback instead.",
+    "The Slavic-cut and capsule legacy galleries reuse visually matching hair photos under separate source URLs; mapping here confirms shade labels and source-gallery membership, not proof that capsule attachment hardware is visible.",
+    "European-cut label 6 reads ШОКОЛАД while dropdown reads Светло-коричневый / 6; the numeric code is exact.",
+    "Current clip-ins and mono order-based mappings align for their explicit codes. Clip-ins 613 needs only-name caution. Ponytail 1/613 is a separator-format candidate, not a strict literal match.",
+    "Published images are ordinary WebP compression only. Byte-identical source photos are shared between product galleries. No new variants or availability are inferred."
+  ]
+}

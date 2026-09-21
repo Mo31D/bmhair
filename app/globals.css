@@ -19,3 +19,21 @@
 .selection-total{display:flex;justify-content:space-between;gap:16px;align-items:baseline;font-size:.875rem;margin:14px 0 24px;padding-bottom:16px;border-bottom:1px solid var(--border)}
 .selection-total span{color:#685b61}.selection-total strong{font-weight:500;white-space:nowrap;color:var(--plum)}
 .shade-radio:focus-visible{outline:2px solid var(--plum);outline-offset:5px}
+
+/* Authentic shade references retain the original photograph's colour. */
+.main-product-image.shade-reference-image{background:#fff}
+.main-product-image.shade-reference-image>img{mix-blend-mode:normal}
+.shade-options{align-items:start;gap:12px}
+.shade-choice{width:48px;min-height:86px;justify-content:flex-end}
+.shade-choice>.shade-radio{flex-shrink:0;margin:10px 0}
+.shade-choice>.shade-photo{width:46px;height:64px;border-radius:3px;margin:0;border:1px solid var(--border);aspect-ratio:auto}
+.shade-choice>.shade-photo[data-state=checked]{outline:2px solid var(--plum);outline-offset:3px}
+.shade-choice>.shade-photo [data-slot=radio-group-indicator]{display:none}
+.shade-choice>span{font-size:.72rem;white-space:nowrap}
+.shade-choice>.shade-photo:focus-visible{outline:3px solid var(--plum);outline-offset:4px}
+.capsule-guide h3{font-family:inherit;font-size:1rem;font-weight:500;margin:20px 0 12px}.capsule-guide table{width:100%;border-collapse:collapse;margin:16px 0}.capsule-guide th,.capsule-guide td{text-align:left;font-weight:400;border-bottom:1px solid var(--border);padding:10px 8px}.capsule-guide thead th{font-weight:500}
+
+/* Keep longer translated partner headings within narrow screens. */
+.pro-pillars>div,.enquiry-layout>div,.enquiry-layout>form{min-width:0;max-width:100%}
+.pro-pillars h2,.enquiry-intro h2{overflow-wrap:anywhere;hyphens:auto}
+@media(max-width:390px){.pro-pillars h2,.enquiry-intro h2{font-size:2.15rem}}
