@@ -10,7 +10,8 @@
     "build": "vinext build",
     "deploy": "wrangler deploy --config dist/server/wrangler.json",
     "preview": "wrangler dev --config dist/server/wrangler.json --local",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "qa": "node scripts/run-qa.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

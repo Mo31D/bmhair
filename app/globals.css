@@ -14,3 +14,8 @@
 
 .bag-loading{padding:45px 25px;color:#78606c;font-size:.875rem}.desktop-nav,.footer-column a,.form-field,.select-field>label{font-size:.875rem}.policy-layout>nav>a{color:#765762}.option-group legend,.option-group legend>span,.consent-row{font-size:.875rem}
 @media(max-width:390px){.section-heading{flex-wrap:wrap;align-items:flex-start}.section-heading>div{min-width:0;max-width:100%}.section-heading>.text-link{max-width:none}.announcement{height:auto;min-height:31px;padding:5px 14px;text-align:center}}
+
+/* Product selection clarity and keyboard focus. */
+.selection-total{display:flex;justify-content:space-between;gap:16px;align-items:baseline;font-size:.875rem;margin:14px 0 24px;padding-bottom:16px;border-bottom:1px solid var(--border)}
+.selection-total span{color:#685b61}.selection-total strong{font-weight:500;white-space:nowrap;color:var(--plum)}
+.shade-radio:focus-visible{outline:2px solid var(--plum);outline-offset:5px}
